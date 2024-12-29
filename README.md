@@ -3,7 +3,8 @@ I am a final-year Electronics and Communication Engineering student seeking job 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sadrusha-30983529a) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadrusha-30983529a)
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-%23E34F26.svg?style=plastic&logo=Verilog&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded-C-%23323330.svg?style=plastic&logo=Embedded-C&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
