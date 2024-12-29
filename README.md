@@ -2,18 +2,18 @@
 👋 Hi there! Welcome to my GitHub profile!
 I’m Sadrusha, a passionate final-year Electronics and Communication Engineering student with a strong interest in IoT, Embedded Systems, and VLSI Design.
 
-🌟 What I bring to the table:
+🌟 What I bring to the table:<br>
 
-Hands-on experience with IoT projects and home automation systems.
-Proficiency in embedded systems development and a solid understanding of VLSI concepts.
-A knack for solving real-world problems using innovative tech solutions.
-🌱 Currently looking for:
+Hands-on experience with IoT projects and home automation systems.<br>
+Proficiency in embedded systems development and a solid understanding of VLSI concepts.<br>
+A knack for solving real-world problems using innovative tech solutions.<br>
+🌱 Currently looking for:<br>
 
-Opportunities to contribute my skills as an intern or full-time engineer in IoT, Embedded Systems, or VLSI domains.
-📫 Let’s connect!
+Opportunities to contribute my skills as an intern or full-time engineer in IoT, Embedded Systems, or VLSI domains.<br>
+📫 Let’s connect!<br>
 Feel free to reach out at sadrusha2@gmail.com
 
-💡 Check out my projects below to see my passion in action. Let’s innovate together!
+💡 Check out my projects below to see my passion in action. Let’s innovate together!<br>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sadrusha .) 
