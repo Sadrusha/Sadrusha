@@ -6,11 +6,14 @@ I’m Sadrusha, a passionate final-year Electronics and Communication Engineerin
 
 Hands-on experience with IoT projects and home automation systems.<br>
 Proficiency in embedded systems development and a solid understanding of VLSI concepts.<br>
-A knack for solving real-world problems using innovative tech solutions.<br>
+A knack for solving real-world problems using innovative tech solutions.<br><br>
+
 🌱 Currently looking for:<br>
 
 Opportunities to contribute my skills as an intern or full-time engineer in IoT, Embedded Systems, or VLSI domains.<br>
+
 📫 Let’s connect!<br>
+
 Feel free to reach out at sadrusha2@gmail.com
 
 💡 Check out my projects below to see my passion in action. Let’s innovate together!<br>
