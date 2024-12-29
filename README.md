@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a final-year Electronics and Communication Engineering student seeking job or internship opportunities in the fields of VLSI, Embedded Systems, or IoT.<br><br><br><br><br><br><br>
+I am a final-year Electronics and Communication Engineering student seeking job or internship opportunities in the fields of VLSI, Embedded Systems, or IoT.<br>
+Contact Me @ : sadrusha2@gmail.com
+
 
 
 ## 🌐 Socials:
