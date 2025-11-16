@@ -1,36 +1,43 @@
-# 💫About Me :
-👋 Hi there! Welcome to my GitHub profile!
-I’m Sadrusha, a passionate final-year Electronics and Communication Engineering student with a strong interest in IoT, Embedded Systems, and VLSI Design.
+## Hi there! 👋
 
-🌟 What I bring to the table:<br>
+I'm Sadrusha, an IoT & Embedded Engineer based in Mangalore. I have a passion for creating innovative solutions that bridge the gap between the physical and digital worlds!
 
-Hands-on experience with IoT projects and home automation systems.<br>
-Proficiency in embedded systems development and a solid understanding of VLSI concepts.<br>
-A knack for solving real-world problems using innovative tech solutions.<br><br>
+## About Me
 
-🌱 Currently looking for:<br>
+I work at **Citygreens**, where I focus on developing IoT applications and embedded systems. My expertise lies in integrating hardware and software to create seamless user experiences. I love tackling complex challenges and turning ideas into reality!
 
-Opportunities to contribute my skills as an intern or full-time engineer in IoT, Embedded Systems, or VLSI domains.<br>
-
-📫 Let’s connect!<br>
-
-Feel free to reach out at sadrusha2@gmail.com
-
-💡 Check out my projects below to see my passion in action. Let’s innovate together!<br>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadrusha-30983529a)
+## Skills & Technologies
 
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Sadrusha&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sadrusha&theme=yeblu&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadrusha&theme=yeblu&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Top Projects
 
----
-[![](https://visitcount.itsvg.in/api?id=Sadrusha&icon=8&color=8)](https://visitcount.itsvg.in)
+- [Parking Assistance](https://github.com/Sadrusha/parking_assistance) - A web application to help locate parking spots. **Stars:** 0 | **Language:** HTML | **Forks:** 0 | **Issues:** 0
+- [LTSpice Simulations](https://github.com/Sadrusha/LTSpice-Simulations) - A collection of LTSpice simulation projects. **Stars:** 0 | **Language:** Not specified | **Forks:** 0 | **Issues:** 0
+- [Samsung RISC-V](https://github.com/Sadrusha/samsung-riscv) - A repository for RISC-V architecture implementations. **Stars:** 0 | **Language:** Not specified | **Forks:** 0 | **Issues:** 0
+- [IoT Projects](https://github.com/Sadrusha/IoT_Projects) - A compilation of various IoT projects. **Stars:** 0 | **Language:** C++ | **Forks:** 0 | **Issues:** 0
+- [VLSI Projects](https://github.com/Sadrusha/VLSI_Projects) - Projects related to VLSI design and simulation. **Stars:** 0 | **Language:** Not specified | **Forks:** 0 | **Issues:** 0
+
+## GitHub Stats
+
+🌟 **Public Repositories:** 6  
+👥 **Followers:** 4  
+👤 **Following:** 3  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadrusha&show_icons=true&theme=radical)
+
+## Recent Activity
+
+Here are some of my latest activities on GitHub:
+- Created a new repository: [Parking Assistance](https://github.com/Sadrusha/parking_assistance)
+- Updated the [LTSpice Simulations](https://github.com/Sadrusha/LTSpice-Simulations) repository.
+- Contributed to [IoT Projects](https://github.com/Sadrusha/IoT_Projects).
+- Opened an issue in the [VLSI Projects](https://github.com/Sadrusha/VLSI_Projects) repository.
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts. Stay tuned for future updates!
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/sadrusha"}
