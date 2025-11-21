@@ -1,43 +1,91 @@
-## Hi there! 👋
+# 👋 Hi, I'm Sadrusha  
+**Embedded & IoT Engineer | ESP32-S3 • STM32 • Embedded C • Firmware • FreeRTOS • Modbus/RS485**
 
-I'm Sadrusha, an IoT & Embedded Engineer based in Mangalore. I have a passion for creating innovative solutions that bridge the gap between the physical and digital worlds!
+I’m an **Embedded & IoT Engineer** passionate about building real-time, reliable, and production-ready embedded systems.  
+I work extensively with **ESP32-S3, STM32, Raspberry Pi**, and IoT communication protocols such as **UART, I2C, SPI, RS-485, Modbus, LoRa, ESP-NOW, MQTT**.
 
-## About Me
+---
 
-I work at **Citygreens**, where I focus on developing IoT applications and embedded systems. My expertise lies in integrating hardware and software to create seamless user experiences. I love tackling complex challenges and turning ideas into reality!
+## 🚀 About Me
 
-## Skills & Technologies
+I currently work at **Citygreens**, where I develop end-to-end **IoT automation** and **embedded solutions** for real-world agricultural and industrial systems.
 
+My experience includes:
 
+🔹 Real-time firmware development  
+🔹 IoT gateways, RS-485/Modbus communication  
+🔹 FreeRTOS tasks, OTA updates, cloud integrations  
+🔹 Sensor-based automation (ultrasonic, current/voltage sensing)  
+🔹 ESP-NOW, LoRa, MQTT-based wireless communication  
+🔹 Cloud dashboards built on **ThingsBoard / ThingSpeak**
 
-## Top Projects
+I love solving complex embedded challenges and building systems that combine **hardware + firmware + wireless communication + cloud**.
 
-- [Parking Assistance](https://github.com/Sadrusha/parking_assistance) - A web application to help locate parking spots. **Stars:** 0 | **Language:** HTML | **Forks:** 0 | **Issues:** 0
-- [LTSpice Simulations](https://github.com/Sadrusha/LTSpice-Simulations) - A collection of LTSpice simulation projects. **Stars:** 0 | **Language:** Not specified | **Forks:** 0 | **Issues:** 0
-- [Samsung RISC-V](https://github.com/Sadrusha/samsung-riscv) - A repository for RISC-V architecture implementations. **Stars:** 0 | **Language:** Not specified | **Forks:** 0 | **Issues:** 0
-- [IoT Projects](https://github.com/Sadrusha/IoT_Projects) - A compilation of various IoT projects. **Stars:** 0 | **Language:** C++ | **Forks:** 0 | **Issues:** 0
-- [VLSI Projects](https://github.com/Sadrusha/VLSI_Projects) - Projects related to VLSI design and simulation. **Stars:** 0 | **Language:** Not specified | **Forks:** 0 | **Issues:** 0
+---
 
-## GitHub Stats
+## 🛠️ Skills & Technologies
 
-🌟 **Public Repositories:** 6  
-👥 **Followers:** 4  
-👤 **Following:** 3  
+**Embedded Systems:**  
+ESP32-S3 • STM32 • Raspberry Pi • Microcontrollers  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadrusha&show_icons=true&theme=radical)
+**Firmware & Programming:**  
+Embedded C • C/C++ • FreeRTOS • OTA Updates  
 
-## Recent Activity
+**Communication Protocols:**  
+UART • I2C • SPI • RS-485 • Modbus • CAN • LoRa • ESP-NOW • MQTT  
 
-Here are some of my latest activities on GitHub:
-- Created a new repository: [Parking Assistance](https://github.com/Sadrusha/parking_assistance)
-- Updated the [LTSpice Simulations](https://github.com/Sadrusha/LTSpice-Simulations) repository.
-- Contributed to [IoT Projects](https://github.com/Sadrusha/IoT_Projects).
-- Opened an issue in the [VLSI Projects](https://github.com/Sadrusha/VLSI_Projects) repository.
+**IoT & Cloud:**  
+ThingsBoard • ThingSpeak • HTTP APIs • MQTT Brokers  
 
-## Latest Blog Posts
+**Tools:**  
+Git • LTSpice • Logic Analyzer • Arduino IDE • PlatformIO  
 
-Currently, I don't have any blog posts. Stay tuned for future updates!
+**Other:**  
+Edge AI • Sensor Integrations • Debugging & Testing
 
-## Connect with Me
+---
 
-{"linkedin":"https://www.linkedin.com/in/sadrusha"}
+## 📦 Top Projects
+
+### 🔹 [Parking Assistance](https://github.com/Sadrusha/parking_assistance)  
+Smart parking slot detection & web interface for dynamic slot monitoring.  
+**Tech:** HTML, JS, Python, OpenCV
+
+### 🔹 [IoT Projects](https://github.com/Sadrusha/IoT_Projects)  
+Collection of ESP32-based IoT automation systems.  
+**Tech:** C++, MQTT, Sensors
+
+### 🔹 [LTSpice Simulations](https://github.com/Sadrusha/LTSpice-Simulations)  
+Analog, digital & mixed-signal simulations.  
+
+### 🔹 [Samsung RISC-V](https://github.com/Sadrusha/samsung-riscv)  
+RISC-V architecture experiments & ISA understanding.
+
+### 🔹 [VLSI Projects](https://github.com/Sadrusha/VLSI_Projects)  
+Digital logic & VLSI design practice projects.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadrusha&show_icons=true&theme=react)
+
+---
+
+## 📝 Recent GitHub Activity
+
+- 🚀 Created *Parking Assistance* repository  
+- 🛠 Updated *LTSpice Simulations*  
+- 🔧 Contributed to *IoT Projects*  
+- ❗ Opened issue on *VLSI Projects*  
+
+---
+
+## 🌐 Connect With Me
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/sadrusha  
+🔗 **GitHub:** https://github.com/Sadrusha  
+
+---
+
+💡 *Always learning. Always building. Passionate about Embedded Systems, IoT & Edge Intelligence.*  
